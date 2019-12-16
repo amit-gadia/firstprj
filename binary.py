@@ -7,6 +7,6 @@ def solution(n):
                            mod1=mod+mod1
                   else:
                            return mod1
-         print (mod1[::-1])
+         print (mod1)
 n=int(input())
 solution(n)
